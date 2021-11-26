@@ -1,6 +1,6 @@
 {
   "name": "over-hangman",
-  "homepage": "https://over-hangman.iwgx.io",
+  "homepage": "https://over-hangman.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
