@@ -16,8 +16,8 @@ const Footer = () => {
           { "text-white": themeState.theme === "dark" }
         )}
       >
-        <a href="https://iwgx.io/" target="_blank" rel="noopener noreferrer">
-          &copy; 2019 Ilham Wahabi
+        <a href="https://github.com/uvacoder" target="_blank" rel="noopener noreferrer">
+          &copy; 2021 uvacoder
         </a>
         <a
           href="https://github.com/iwgx/over-hangman"
@@ -31,7 +31,7 @@ const Footer = () => {
           />
         </a>
         <a
-          href="https://twitter.com/ilhamwahabigx"
+          href="https://twitter.com/AlecCam43544378"
           target="_blank"
           rel="noopener noreferrer"
           className="ml-2 lg:ml-3"
